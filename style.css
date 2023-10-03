@@ -1,0 +1,23 @@
+.banner{
+    background-image: url(outer_banks.jpg) ;
+    height: 185px;
+    background-position: center;
+}
+.box1{
+    border-style: hidden;
+    border: 1px khaki;
+    max-width: max-content;
+    display: inline-block;
+}
+.box2{
+    border-style: hidden;
+    border: 1px khaki;
+    max-width: max-content;
+    float: right;
+    display: inline-block
+}
+#bodytext{
+    position: relative;
+    display: block;
+    width: 50%;
+}
